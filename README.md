@@ -1,3 +1,3 @@
-# rf -rf node_modules
+# rm -rf node_modules
 # npm i
 # npm start
